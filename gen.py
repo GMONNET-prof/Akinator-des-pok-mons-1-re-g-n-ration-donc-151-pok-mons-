@@ -21,13 +21,13 @@ def get_gen1_pokemon():
         attr = requests.get(sp["url"]).json() # Cherche l'url attaché au pokemon sp["name"]
         color = attr["color"]["name"] # Dans cette url, cherche la couleur du pokemon sp["name"]
         fr_name = attr["names"][4]["name"] # Dans cette url, cherche la traducion du nom en français du pokemon sp["name"]
-        habitat = attr["habitat"]["name"]
-        habitat_attr = requests.get(attr["habitat"]["url"]).json()
-        fr_habitat = habitat_attr["names"][0]["name"]
+        habitat = attr["habitat"]["name"] # Dans cette url, cherche l'habitat du pokemon sp["name"]
+        habitat_attr = requests.get(attr["habitat"]["url"]).json() # Va cherche l'url de l'habitat pour avoir ses traductions
+        fr_habitat = habitat_attr["names"][0]["name"] # Dans cette url, cherche l'habitat en français du pokemon sp["name"]
 
 #####################################################################################################
 
-        try:
+        try: # Essaye d'obtenir chaque évolution si elle existe, sinon écrit "aucune"
             evolutions = requests.get(attr["evolution_chain"]["url"]).json()
             first = evolutions["chain"]["species"]["name"]
             second = evolutions["chain"]["evolves_to"][0]["species"]["name"]
