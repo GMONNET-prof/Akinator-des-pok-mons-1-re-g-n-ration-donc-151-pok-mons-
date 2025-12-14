@@ -1,0 +1,1965 @@
+[
+    {
+        "id": 0,
+        "name": "bulbasaur",
+        "fr_name": "Bulbizarre",
+        "color": "green",
+        "evos": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 1,
+        "name": "charmander",
+        "fr_name": "Salamèche",
+        "color": "red",
+        "evos": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 2,
+        "name": "squirtle",
+        "fr_name": "Carapuce",
+        "color": "blue",
+        "evos": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 3,
+        "name": "caterpie",
+        "fr_name": "Chenipan",
+        "color": "green",
+        "evos": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 4,
+        "name": "weedle",
+        "fr_name": "Aspicot",
+        "color": "brown",
+        "evos": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 5,
+        "name": "pidgey",
+        "fr_name": "Roucool",
+        "color": "brown",
+        "evos": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 6,
+        "name": "rattata",
+        "fr_name": "Rattata",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 7,
+        "name": "spearow",
+        "fr_name": "Piafabec",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 8,
+        "name": "ekans",
+        "fr_name": "Abo",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 9,
+        "name": "sandshrew",
+        "fr_name": "Sabelette",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 10,
+        "name": "nidoran-f",
+        "fr_name": "Nidoran♀",
+        "color": "blue",
+        "evos": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 11,
+        "name": "nidoran-m",
+        "fr_name": "Nidoran♂",
+        "color": "purple",
+        "evos": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 12,
+        "name": "vulpix",
+        "fr_name": "Goupix",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 13,
+        "name": "zubat",
+        "fr_name": "Nosferapti",
+        "color": "purple",
+        "evos": [
+            "zubat",
+            "golbat",
+            "crobat"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 14,
+        "name": "oddish",
+        "fr_name": "Mystherbe",
+        "color": "blue",
+        "evos": [
+            "oddish",
+            "gloom",
+            "vileplume"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 15,
+        "name": "paras",
+        "fr_name": "Paras",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 16,
+        "name": "venonat",
+        "fr_name": "Mimitoss",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 17,
+        "name": "diglett",
+        "fr_name": "Taupiqueur",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 18,
+        "name": "meowth",
+        "fr_name": "Miaouss",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 19,
+        "name": "psyduck",
+        "fr_name": "Psykokwak",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 20,
+        "name": "mankey",
+        "fr_name": "Férosinge",
+        "color": "brown",
+        "evos": [
+            "mankey",
+            "primeape",
+            "annihilape"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 21,
+        "name": "growlithe",
+        "fr_name": "Caninos",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 22,
+        "name": "poliwag",
+        "fr_name": "Ptitard",
+        "color": "blue",
+        "evos": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 23,
+        "name": "abra",
+        "fr_name": "Abra",
+        "color": "brown",
+        "evos": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 24,
+        "name": "machop",
+        "fr_name": "Machoc",
+        "color": "gray",
+        "evos": [
+            "machop",
+            "machoke",
+            "machamp"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 25,
+        "name": "bellsprout",
+        "fr_name": "Chétiflor",
+        "color": "green",
+        "evos": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 26,
+        "name": "tentacool",
+        "fr_name": "Tentacool",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 27,
+        "name": "geodude",
+        "fr_name": "Racaillou",
+        "color": "brown",
+        "evos": [
+            "geodude",
+            "graveler",
+            "golem"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 28,
+        "name": "venusaur",
+        "fr_name": "Florizarre",
+        "color": "green",
+        "evos": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 29,
+        "name": "charmeleon",
+        "fr_name": "Reptincel",
+        "color": "red",
+        "evos": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 30,
+        "name": "charizard",
+        "fr_name": "Dracaufeu",
+        "color": "red",
+        "evos": [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 31,
+        "name": "wartortle",
+        "fr_name": "Carabaffe",
+        "color": "blue",
+        "evos": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 32,
+        "name": "blastoise",
+        "fr_name": "Tortank",
+        "color": "blue",
+        "evos": [
+            "squirtle",
+            "wartortle",
+            "blastoise"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 33,
+        "name": "metapod",
+        "fr_name": "Chrysacier",
+        "color": "green",
+        "evos": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 34,
+        "name": "butterfree",
+        "fr_name": "Papilusion",
+        "color": "white",
+        "evos": [
+            "caterpie",
+            "metapod",
+            "butterfree"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 35,
+        "name": "kakuna",
+        "fr_name": "Coconfort",
+        "color": "yellow",
+        "evos": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 36,
+        "name": "beedrill",
+        "fr_name": "Dardargnan",
+        "color": "yellow",
+        "evos": [
+            "weedle",
+            "kakuna",
+            "beedrill"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 37,
+        "name": "pidgeotto",
+        "fr_name": "Roucoups",
+        "color": "brown",
+        "evos": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 38,
+        "name": "pidgeot",
+        "fr_name": "Roucarnage",
+        "color": "brown",
+        "evos": [
+            "pidgey",
+            "pidgeotto",
+            "pidgeot"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 39,
+        "name": "raticate",
+        "fr_name": "Rattatac",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 40,
+        "name": "fearow",
+        "fr_name": "Rapasdepic",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 41,
+        "name": "arbok",
+        "fr_name": "Arbok",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 42,
+        "name": "pikachu",
+        "fr_name": "Pikachu",
+        "color": "yellow",
+        "evos": [
+            "pichu",
+            "pikachu",
+            "raichu"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 43,
+        "name": "raichu",
+        "fr_name": "Raichu",
+        "color": "yellow",
+        "evos": [
+            "pichu",
+            "pikachu",
+            "raichu"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 44,
+        "name": "sandslash",
+        "fr_name": "Sablaireau",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 45,
+        "name": "nidorina",
+        "fr_name": "Nidorina",
+        "color": "blue",
+        "evos": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 46,
+        "name": "nidoqueen",
+        "fr_name": "Nidoqueen",
+        "color": "blue",
+        "evos": [
+            "nidoran-f",
+            "nidorina",
+            "nidoqueen"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 47,
+        "name": "nidorino",
+        "fr_name": "Nidorino",
+        "color": "purple",
+        "evos": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 48,
+        "name": "nidoking",
+        "fr_name": "Nidoking",
+        "color": "purple",
+        "evos": [
+            "nidoran-m",
+            "nidorino",
+            "nidoking"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 49,
+        "name": "clefairy",
+        "fr_name": "Mélofée",
+        "color": "pink",
+        "evos": [
+            "cleffa",
+            "clefairy",
+            "clefable"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 50,
+        "name": "clefable",
+        "fr_name": "Mélodelfe",
+        "color": "pink",
+        "evos": [
+            "cleffa",
+            "clefairy",
+            "clefable"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 51,
+        "name": "ninetales",
+        "fr_name": "Feunard",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 52,
+        "name": "jigglypuff",
+        "fr_name": "Rondoudou",
+        "color": "pink",
+        "evos": [
+            "igglybuff",
+            "jigglypuff",
+            "wigglytuff"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 53,
+        "name": "wigglytuff",
+        "fr_name": "Grodoudou",
+        "color": "pink",
+        "evos": [
+            "igglybuff",
+            "jigglypuff",
+            "wigglytuff"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 54,
+        "name": "golbat",
+        "fr_name": "Nosferalto",
+        "color": "purple",
+        "evos": [
+            "zubat",
+            "golbat",
+            "crobat"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 55,
+        "name": "gloom",
+        "fr_name": "Ortide",
+        "color": "blue",
+        "evos": [
+            "oddish",
+            "gloom",
+            "vileplume"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 56,
+        "name": "vileplume",
+        "fr_name": "Rafflesia",
+        "color": "red",
+        "evos": [
+            "oddish",
+            "gloom",
+            "vileplume"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 57,
+        "name": "parasect",
+        "fr_name": "Parasect",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 58,
+        "name": "venomoth",
+        "fr_name": "Aéromite",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 59,
+        "name": "dugtrio",
+        "fr_name": "Triopikeur",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 60,
+        "name": "persian",
+        "fr_name": "Persian",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 61,
+        "name": "golduck",
+        "fr_name": "Akwakwak",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 62,
+        "name": "primeape",
+        "fr_name": "Colossinge",
+        "color": "brown",
+        "evos": [
+            "mankey",
+            "primeape",
+            "annihilape"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 63,
+        "name": "arcanine",
+        "fr_name": "Arcanin",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 64,
+        "name": "poliwhirl",
+        "fr_name": "Têtarte",
+        "color": "blue",
+        "evos": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 65,
+        "name": "poliwrath",
+        "fr_name": "Tartard",
+        "color": "blue",
+        "evos": [
+            "poliwag",
+            "poliwhirl",
+            "poliwrath"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 66,
+        "name": "kadabra",
+        "fr_name": "Kadabra",
+        "color": "brown",
+        "evos": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 67,
+        "name": "alakazam",
+        "fr_name": "Alakazam",
+        "color": "brown",
+        "evos": [
+            "abra",
+            "kadabra",
+            "alakazam"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 68,
+        "name": "machoke",
+        "fr_name": "Machopeur",
+        "color": "gray",
+        "evos": [
+            "machop",
+            "machoke",
+            "machamp"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 69,
+        "name": "machamp",
+        "fr_name": "Mackogneur",
+        "color": "gray",
+        "evos": [
+            "machop",
+            "machoke",
+            "machamp"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 70,
+        "name": "weepinbell",
+        "fr_name": "Boustiflor",
+        "color": "green",
+        "evos": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 71,
+        "name": "victreebel",
+        "fr_name": "Empiflor",
+        "color": "green",
+        "evos": [
+            "bellsprout",
+            "weepinbell",
+            "victreebel"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 72,
+        "name": "tentacruel",
+        "fr_name": "Tentacruel",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 73,
+        "name": "graveler",
+        "fr_name": "Gravalanch",
+        "color": "brown",
+        "evos": [
+            "geodude",
+            "graveler",
+            "golem"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 74,
+        "name": "ponyta",
+        "fr_name": "Ponyta",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 75,
+        "name": "slowpoke",
+        "fr_name": "Ramoloss",
+        "color": "pink",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 76,
+        "name": "magnemite",
+        "fr_name": "Magnéti",
+        "color": "gray",
+        "evos": [
+            "magnemite",
+            "magneton",
+            "magnezone"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 77,
+        "name": "farfetchd",
+        "fr_name": "Canarticho",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 78,
+        "name": "doduo",
+        "fr_name": "Doduo",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 79,
+        "name": "seel",
+        "fr_name": "Otaria",
+        "color": "white",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 80,
+        "name": "grimer",
+        "fr_name": "Tadmorv",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 81,
+        "name": "shellder",
+        "fr_name": "Kokiyas",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 82,
+        "name": "gastly",
+        "fr_name": "Fantominus",
+        "color": "purple",
+        "evos": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 83,
+        "name": "onix",
+        "fr_name": "Onix",
+        "color": "gray",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 84,
+        "name": "drowzee",
+        "fr_name": "Soporifik",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 85,
+        "name": "krabby",
+        "fr_name": "Krabby",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 86,
+        "name": "voltorb",
+        "fr_name": "Voltorbe",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 87,
+        "name": "exeggcute",
+        "fr_name": "Noeunoeuf",
+        "color": "pink",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 88,
+        "name": "cubone",
+        "fr_name": "Osselait",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 89,
+        "name": "lickitung",
+        "fr_name": "Excelangue",
+        "color": "pink",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 90,
+        "name": "koffing",
+        "fr_name": "Smogo",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 91,
+        "name": "rhyhorn",
+        "fr_name": "Rhinocorne",
+        "color": "gray",
+        "evos": [
+            "rhyhorn",
+            "rhydon",
+            "rhyperior"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 92,
+        "name": "tangela",
+        "fr_name": "Saquedeneu",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 93,
+        "name": "kangaskhan",
+        "fr_name": "Kangourex",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 94,
+        "name": "horsea",
+        "fr_name": "Hypotrempe",
+        "color": "blue",
+        "evos": [
+            "horsea",
+            "seadra",
+            "kingdra"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 95,
+        "name": "goldeen",
+        "fr_name": "Poissirène",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 96,
+        "name": "staryu",
+        "fr_name": "Stari",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 97,
+        "name": "scyther",
+        "fr_name": "Insécateur",
+        "color": "green",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 98,
+        "name": "pinsir",
+        "fr_name": "Scarabrute",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 99,
+        "name": "tauros",
+        "fr_name": "Tauros",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 100,
+        "name": "magikarp",
+        "fr_name": "Magicarpe",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 101,
+        "name": "lapras",
+        "fr_name": "Lokhlass",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 102,
+        "name": "ditto",
+        "fr_name": "Métamorph",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 103,
+        "name": "eevee",
+        "fr_name": "Évoli",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 104,
+        "name": "porygon",
+        "fr_name": "Porygon",
+        "color": "pink",
+        "evos": [
+            "porygon",
+            "porygon2",
+            "porygon-z"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 105,
+        "name": "omanyte",
+        "fr_name": "Amonita",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 106,
+        "name": "kabuto",
+        "fr_name": "Kabuto",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 107,
+        "name": "aerodactyl",
+        "fr_name": "Ptéra",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 108,
+        "name": "articuno",
+        "fr_name": "Artikodin",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rare",
+        "fr_habitat": "rares"
+    },
+    {
+        "id": 109,
+        "name": "zapdos",
+        "fr_name": "Électhor",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rare",
+        "fr_habitat": "rares"
+    },
+    {
+        "id": 110,
+        "name": "moltres",
+        "fr_name": "Sulfura",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rare",
+        "fr_habitat": "rares"
+    },
+    {
+        "id": 111,
+        "name": "dratini",
+        "fr_name": "Minidraco",
+        "color": "blue",
+        "evos": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 112,
+        "name": "mewtwo",
+        "fr_name": "Mewtwo",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rare",
+        "fr_habitat": "rares"
+    },
+    {
+        "id": 113,
+        "name": "rapidash",
+        "fr_name": "Galopa",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 114,
+        "name": "slowbro",
+        "fr_name": "Flagadoss",
+        "color": "pink",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 115,
+        "name": "magneton",
+        "fr_name": "Magnéton",
+        "color": "gray",
+        "evos": [
+            "magnemite",
+            "magneton",
+            "magnezone"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 116,
+        "name": "dodrio",
+        "fr_name": "Dodrio",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 117,
+        "name": "dewgong",
+        "fr_name": "Lamantine",
+        "color": "white",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 118,
+        "name": "muk",
+        "fr_name": "Grotadmorv",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 119,
+        "name": "cloyster",
+        "fr_name": "Crustabri",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 120,
+        "name": "haunter",
+        "fr_name": "Spectrum",
+        "color": "purple",
+        "evos": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 121,
+        "name": "gengar",
+        "fr_name": "Ectoplasma",
+        "color": "purple",
+        "evos": [
+            "gastly",
+            "haunter",
+            "gengar"
+        ],
+        "habitat": "cave",
+        "fr_habitat": "grottes"
+    },
+    {
+        "id": 122,
+        "name": "hypno",
+        "fr_name": "Hypnomade",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 123,
+        "name": "kingler",
+        "fr_name": "Krabboss",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 124,
+        "name": "electrode",
+        "fr_name": "Électrode",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 125,
+        "name": "exeggutor",
+        "fr_name": "Noadkoko",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "forest",
+        "fr_habitat": "forêts"
+    },
+    {
+        "id": 126,
+        "name": "marowak",
+        "fr_name": "Ossatueur",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 127,
+        "name": "hitmonlee",
+        "fr_name": "Kicklee",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 128,
+        "name": "hitmonchan",
+        "fr_name": "Tygnon",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 129,
+        "name": "weezing",
+        "fr_name": "Smogogo",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 130,
+        "name": "rhydon",
+        "fr_name": "Rhinoféros",
+        "color": "gray",
+        "evos": [
+            "rhyhorn",
+            "rhydon",
+            "rhyperior"
+        ],
+        "habitat": "rough-terrain",
+        "fr_habitat": "milieux hostiles"
+    },
+    {
+        "id": 131,
+        "name": "chansey",
+        "fr_name": "Leveinard",
+        "color": "pink",
+        "evos": [
+            "happiny",
+            "chansey",
+            "blissey"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 132,
+        "name": "seadra",
+        "fr_name": "Hypocéan",
+        "color": "blue",
+        "evos": [
+            "horsea",
+            "seadra",
+            "kingdra"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 133,
+        "name": "seaking",
+        "fr_name": "Poissoroy",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 134,
+        "name": "starmie",
+        "fr_name": "Staross",
+        "color": "purple",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 135,
+        "name": "mr-mime",
+        "fr_name": "M. Mime",
+        "color": "pink",
+        "evos": [
+            "mime-jr",
+            "mr-mime",
+            "mr-rime"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 136,
+        "name": "jynx",
+        "fr_name": "Lippoutou",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 137,
+        "name": "electabuzz",
+        "fr_name": "Élektek",
+        "color": "yellow",
+        "evos": [
+            "elekid",
+            "electabuzz",
+            "electivire"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 138,
+        "name": "magmar",
+        "fr_name": "Magmar",
+        "color": "red",
+        "evos": [
+            "magby",
+            "magmar",
+            "magmortar"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 139,
+        "name": "gyarados",
+        "fr_name": "Léviator",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 140,
+        "name": "vaporeon",
+        "fr_name": "Aquali",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 141,
+        "name": "jolteon",
+        "fr_name": "Voltali",
+        "color": "yellow",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 142,
+        "name": "flareon",
+        "fr_name": "Pyroli",
+        "color": "red",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "urban",
+        "fr_habitat": "urbains"
+    },
+    {
+        "id": 143,
+        "name": "omastar",
+        "fr_name": "Amonistar",
+        "color": "blue",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 144,
+        "name": "kabutops",
+        "fr_name": "Kabutops",
+        "color": "brown",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "sea",
+        "fr_habitat": "mers"
+    },
+    {
+        "id": 145,
+        "name": "snorlax",
+        "fr_name": "Ronflex",
+        "color": "black",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    },
+    {
+        "id": 146,
+        "name": "dragonair",
+        "fr_name": "Draco",
+        "color": "blue",
+        "evos": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 147,
+        "name": "dragonite",
+        "fr_name": "Dracolosse",
+        "color": "brown",
+        "evos": [
+            "dratini",
+            "dragonair",
+            "dragonite"
+        ],
+        "habitat": "waters-edge",
+        "fr_habitat": "marécages"
+    },
+    {
+        "id": 148,
+        "name": "mew",
+        "fr_name": "Mew",
+        "color": "pink",
+        "evos": [
+            "aucune",
+            "aucune",
+            "aucune"
+        ],
+        "habitat": "rare",
+        "fr_habitat": "rares"
+    },
+    {
+        "id": 149,
+        "name": "ivysaur",
+        "fr_name": "Herbizarre",
+        "color": "green",
+        "evos": [
+            "bulbasaur",
+            "ivysaur",
+            "venusaur"
+        ],
+        "habitat": "grassland",
+        "fr_habitat": "champs"
+    },
+    {
+        "id": 150,
+        "name": "golem",
+        "fr_name": "Grolem",
+        "color": "brown",
+        "evos": [
+            "geodude",
+            "graveler",
+            "golem"
+        ],
+        "habitat": "mountain",
+        "fr_habitat": "montagnes"
+    }
+]
